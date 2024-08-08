@@ -41,9 +41,11 @@ To get started with this repository, follow these steps:
 The repository is organized as follows:
 
 ```plaintext
-js-essentials-practice/
+JavaScript_Practice/
+├── css/
+|   ├── output.css/
 │
-├── basics/
+├── basic/
 │   ├── variables/
 │   ├── functions/
 │   ├── loops/
@@ -69,5 +71,7 @@ js-essentials-practice/
 │   └── calculator/
 │
 ├── index.html
+├── DOM.html
 ├── README.md
+├── LICENSE
 └── .gitignore
